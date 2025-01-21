@@ -1,3 +1,3 @@
-# Jr Wallet
+# SOL Wallet 
 
 ![ScreenShot Landing Transaction Page](./public/jr-wallet.png)
